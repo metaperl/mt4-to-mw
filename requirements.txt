@@ -1,2 +1,2 @@
-https://github.com/gorakhargosh/watchdog/
-https://code.google.com/p/mt4-trade-copy/
+blargs
+watchdog
